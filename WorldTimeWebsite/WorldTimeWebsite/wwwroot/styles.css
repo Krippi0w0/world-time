@@ -1,0 +1,41 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+#time {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#clock {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#buttons {
+    margin-top: 20px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #45a049;
+    }
+
+#current-timezone {
+    margin-top: 20px;
+}

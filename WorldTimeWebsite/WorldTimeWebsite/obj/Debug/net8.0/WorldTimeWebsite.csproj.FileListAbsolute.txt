@@ -1,0 +1,4 @@
+C:\Users\Krippi\Desktop\WorldTimeWebsite\WorldTimeWebsite\obj\Debug\net8.0\WorldTimeWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krippi\Desktop\WorldTimeWebsite\WorldTimeWebsite\obj\Debug\net8.0\WorldTimeWebsite.AssemblyInfoInputs.cache
+C:\Users\Krippi\Desktop\WorldTimeWebsite\WorldTimeWebsite\obj\Debug\net8.0\WorldTimeWebsite.AssemblyInfo.cs
+C:\Users\Krippi\Desktop\WorldTimeWebsite\WorldTimeWebsite\obj\Debug\net8.0\WorldTimeWebsite.csproj.CoreCompileInputs.cache
